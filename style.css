@@ -130,3 +130,12 @@ li i:hover {
   justify-content: space-between;
   color: #333;
 }
+footer {
+  position: absolute;
+  bottom: 10px;
+  font-size: 14px;
+  color: rgb(177, 115, 100);
+}
+footer span {
+  font-size: 13px;
+}
