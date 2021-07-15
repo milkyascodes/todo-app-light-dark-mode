@@ -65,12 +65,12 @@ h2 {
   border-radius: 50px;
   padding: 5px 10px;
 }
-input {
+.input-field input {
   padding: 10px;
   flex: 1;
   width: 100%;
   height: 100%;
-  border: none;
+  border: 0;
   outline: none;
   border-radius: 50px;
 }
@@ -119,7 +119,7 @@ li i {
 }
 li i:hover {
   font-size: 15px;
-  color: red;
+  color: rgb(229, 255, 0);
 }
 
 .footer {
